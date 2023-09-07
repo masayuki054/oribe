@@ -2,3 +2,8 @@
 
 試しに動かしてみました。
 
+** リンク
+- 織部会のサイト [[https://sites.google.com/view/morioka-oribe-pottery-circle][織部会]]
+- 書き込み用ページ入口 [[https://github.com/masayuki054/oribe/wiki][Home · masayuki054/oribe Wiki]]
+
+
